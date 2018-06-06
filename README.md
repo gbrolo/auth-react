@@ -1,7 +1,7 @@
 # Auth React
 
 A client front end that connects with an external API and handles user authentication with sessions.
-For the API, check out ```[auth-api](https://github.com/gbrolo/auth-api)```.
+For the API, check out [auth-api](https://github.com/gbrolo/auth-api).
 
 ## Getting Started
 

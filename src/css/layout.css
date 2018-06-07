@@ -1,0 +1,30 @@
+.layout-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.layout-col {
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+.layout-form-group {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.layout-form-title {
+    text-align: center;
+    padding: 10px;
+}
+
+.layout-btn-generic {
+    padding: 20px;
+    width: 100%;
+}
+
+.layout-loading-spin {
+    margin-top: 40px;
+    text-align: center;
+}
